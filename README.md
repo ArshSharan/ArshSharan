@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArshSharan
-- 👀 I’m interested in becoming a Cyber Security Director at a large company.
-- 🌱 I’m currently learning Data Structures and Algorithms and Java Programming.
+- 👀 I would love to one day contribute in the field of security and make the digital world a safer place.
+- 🌱 I’m currently working on DSA,Java,MERN Stack.
 - 📫 Reach me via Gmail - arshsharan06@gmail.com
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love singing and playing the guitar.
