@@ -20,4 +20,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ArshSharan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 😂 Random Joke of the Day
+
+> _“Loading a fresh joke...”_
+
+<!-- JOKE-START -->
+> Why don't scientists trust atoms?  
+> Because they make up everything!
+<!-- JOKE-END -->
