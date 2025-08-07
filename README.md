@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why don't scientists trust atoms?  
-> Because they make up everything!
+> Why did the programmer bring a ladder to work?
+> They heard the code needed to be debugged from a higher level.
 <!-- JOKE-END -->
