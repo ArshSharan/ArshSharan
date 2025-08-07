@@ -1,0 +1,29 @@
+name: Update README with Random Joke
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-joke:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch random joke and update README
+        run: |
+          joke=$(curl -s https://official-joke-api.appspot.com/random_joke)
+          setup=$(echo "$joke" | jq -r .setup)
+          punchline=$(echo "$joke" | jq -r .punchline)
+          new_joke="> $setup\n> $punchline"
+          sed -i '/<!-- JOKE-START -->/,/<!-- JOKE-END -->/c\<!-- JOKE-START -->\n'"$new_joke"'\n<!-- JOKE-END -->' README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update joke in README" || echo "No changes to commit"
+          git push
