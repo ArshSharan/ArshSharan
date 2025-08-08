@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why did the programmer bring a ladder to work?
-> They heard the code needed to be debugged from a higher level.
+> What did the beaver say to the tree?
+> It's been nice gnawing you.
 <!-- JOKE-END -->
