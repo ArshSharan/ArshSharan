@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What did the beaver say to the tree?
-> It's been nice gnawing you.
+> Why did the coffee file a police report?
+> It got mugged.
 <!-- JOKE-END -->
