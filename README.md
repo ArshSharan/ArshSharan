@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How many seconds are in a year?
-> 12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
+> Why do bees hum?
+> Because they don't know the words.
 <!-- JOKE-END -->
