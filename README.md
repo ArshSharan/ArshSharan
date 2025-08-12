@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why do bees hum?
-> Because they don't know the words.
+> There are 10 types of people in this world...
+> Those who understand binary and those who don't
 <!-- JOKE-END -->
