@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> There are 10 types of people in this world...
-> Those who understand binary and those who don't
+> Did you hear the joke about the wandering nun?
+> She was a roman catholic.
 <!-- JOKE-END -->
