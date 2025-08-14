@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Did you hear the joke about the wandering nun?
-> She was a roman catholic.
+> I'm reading a book about anti-gravity...
+> It's impossible to put down
 <!-- JOKE-END -->
