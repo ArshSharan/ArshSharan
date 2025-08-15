@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> I'm reading a book about anti-gravity...
-> It's impossible to put down
+> What do you call a thieving alligator?
+> A crookodile!
 <!-- JOKE-END -->
