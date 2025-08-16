@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What do you call a thieving alligator?
-> A crookodile!
+> Why was the developer always calm?
+> Because they knew how to handle exceptions.
 <!-- JOKE-END -->
