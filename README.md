@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why was the developer always calm?
-> Because they knew how to handle exceptions.
+> When do doctors get angry?
+> When they run out of patients.
 <!-- JOKE-END -->
