@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> When do doctors get angry?
-> When they run out of patients.
+> Why did the developer go broke?
+> They kept spending all their cache.
 <!-- JOKE-END -->
