@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why did the developer go broke?
-> They kept spending all their cache.
+> What do you call cheese by itself?
+> Provolone.
 <!-- JOKE-END -->
