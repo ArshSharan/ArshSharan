@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What do you call cheese by itself?
-> Provolone.
+> How many React developers does it take to change a lightbulb?
+> None, they prefer dark mode.
 <!-- JOKE-END -->
