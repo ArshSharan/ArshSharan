@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How many React developers does it take to change a lightbulb?
-> None, they prefer dark mode.
+> What was a more important invention than the first telephone?
+> The second one.
 <!-- JOKE-END -->
