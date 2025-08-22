@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What was a more important invention than the first telephone?
-> The second one.
+> I just watched a documentary about beavers.
+> It was the best dam show I ever saw
 <!-- JOKE-END -->
