@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> I just watched a documentary about beavers.
-> It was the best dam show I ever saw
+> What did the duck say when he bought lipstick?
+> Put it on my bill
 <!-- JOKE-END -->
