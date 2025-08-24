@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What did the duck say when he bought lipstick?
-> Put it on my bill
+> How do you check if a webpage is HTML5?
+> Try it out on Internet Explorer
 <!-- JOKE-END -->
