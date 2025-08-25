@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How do you check if a webpage is HTML5?
-> Try it out on Internet Explorer
+> Why did the developer go to therapy?
+> They had too many unresolved issues.
 <!-- JOKE-END -->
