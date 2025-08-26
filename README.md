@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why did the developer go to therapy?
-> They had too many unresolved issues.
+> While I was sleeping my friends decided to write math equations on me.
+> You should have seen the expression on my face when I woke up.
 <!-- JOKE-END -->
