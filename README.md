@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> While I was sleeping my friends decided to write math equations on me.
-> You should have seen the expression on my face when I woke up.
+> What's blue and not very heavy?
+> Light blue.
 <!-- JOKE-END -->
