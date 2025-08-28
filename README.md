@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What's blue and not very heavy?
-> Light blue.
+> How come the stadium got hot after the game?
+> Because all of the fans left.
 <!-- JOKE-END -->
