@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How come the stadium got hot after the game?
-> Because all of the fans left.
+> A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
+> Pop,goes the weasel.
 <!-- JOKE-END -->
