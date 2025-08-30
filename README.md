@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
-> Pop,goes the weasel.
+> What is the most used language in programming?
+> Profanity.
 <!-- JOKE-END -->
