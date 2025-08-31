@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What is the most used language in programming?
-> Profanity.
+> Why would a guitarist become a good programmer?
+> He's adept at riffing in C#.
 <!-- JOKE-END -->
