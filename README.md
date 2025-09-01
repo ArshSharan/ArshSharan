@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why would a guitarist become a good programmer?
-> He's adept at riffing in C#.
+> Why do bees hum?
+> Because they don't know the words.
 <!-- JOKE-END -->
