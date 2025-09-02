@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why do bees hum?
-> Because they don't know the words.
+> Which song would an exception sing?
+> Can't catch me - Avicii
 <!-- JOKE-END -->
