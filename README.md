@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Which song would an exception sing?
-> Can't catch me - Avicii
+> Why are fish so smart?
+> Because they live in schools!
 <!-- JOKE-END -->
