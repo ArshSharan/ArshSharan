@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why are fish so smart?
-> Because they live in schools!
+> What's the difference between a hippo and a zippo?
+> One is really heavy, the other is a little lighter.
 <!-- JOKE-END -->
