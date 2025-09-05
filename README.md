@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What's the difference between a hippo and a zippo?
-> One is really heavy, the other is a little lighter.
+> Where does batman go to the bathroom?
+> The batroom.
 <!-- JOKE-END -->
