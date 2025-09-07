@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Where does batman go to the bathroom?
-> The batroom.
+> How good are you at Power Point?
+> I Excel at it.
 <!-- JOKE-END -->
