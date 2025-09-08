@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How good are you at Power Point?
-> I Excel at it.
+> What did the spaghetti say to the other spaghetti?
+> Pasta la vista, baby!
 <!-- JOKE-END -->
