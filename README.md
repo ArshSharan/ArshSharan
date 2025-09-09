@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What did the spaghetti say to the other spaghetti?
-> Pasta la vista, baby!
+> Why did the belt go to prison?
+> He held up a pair of pants!
 <!-- JOKE-END -->
