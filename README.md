@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why did the belt go to prison?
-> He held up a pair of pants!
+> What does the mermaid wear to math class?
+> Algae-bra.
 <!-- JOKE-END -->
