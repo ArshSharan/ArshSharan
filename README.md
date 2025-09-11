@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What does the mermaid wear to math class?
-> Algae-bra.
+> What do you call a girl between two posts?
+> Annette.
 <!-- JOKE-END -->
