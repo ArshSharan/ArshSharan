@@ -25,6 +25,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What do you call a girl between two posts?
-> Annette.
+> I dropped a pear in my car this morning.
+> You should drop another one, then you would have a pair.
 <!-- JOKE-END -->
