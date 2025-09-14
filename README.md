@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What do you call a laughing motorcycle?
-> A Yamahahahaha.
+> What is a witch's favorite subject in school?
+> Spelling!
 <!-- JOKE-END -->
