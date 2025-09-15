@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What is a witch's favorite subject in school?
-> Spelling!
+> How does a dyslexic poet write?
+> Inverse.
 <!-- JOKE-END -->
