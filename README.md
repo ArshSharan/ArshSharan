@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How does a dyslexic poet write?
-> Inverse.
+> What do you call a pile of cats?
+> A Meowtain.
 <!-- JOKE-END -->
