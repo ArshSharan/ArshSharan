@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What do you call a pile of cats?
-> A Meowtain.
+> Why don't React developers like nature?
+> They prefer the virtual DOM.
 <!-- JOKE-END -->
