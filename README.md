@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why don't React developers like nature?
-> They prefer the virtual DOM.
+> How many kids with ADD does it take to change a lightbulb?
+> Let's go ride bikes!
 <!-- JOKE-END -->
