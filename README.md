@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How many kids with ADD does it take to change a lightbulb?
-> Let's go ride bikes!
+> How does a French skeleton say hello?
+> Bone-jour.
 <!-- JOKE-END -->
