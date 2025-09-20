@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How does a French skeleton say hello?
-> Bone-jour.
+> How many tickles does it take to tickle an octopus?
+> Ten-tickles!
 <!-- JOKE-END -->
