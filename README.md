@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How many tickles does it take to tickle an octopus?
-> Ten-tickles!
+> Where do young cows eat lunch?
+> In the calf-ateria.
 <!-- JOKE-END -->
