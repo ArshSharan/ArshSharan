@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Where do young cows eat lunch?
-> In the calf-ateria.
+> What's blue and not very heavy?
+> Light blue.
 <!-- JOKE-END -->
