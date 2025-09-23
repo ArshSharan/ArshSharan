@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What's blue and not very heavy?
-> Light blue.
+> How do you know if there’s an elephant under your bed?
+> Your head hits the ceiling!
 <!-- JOKE-END -->
