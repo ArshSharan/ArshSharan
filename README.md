@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How do you know if there’s an elephant under your bed?
-> Your head hits the ceiling!
+> What did the judge say to the dentist?
+> Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 <!-- JOKE-END -->
