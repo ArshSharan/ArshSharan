@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What did the judge say to the dentist?
-> Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+> What did Romans use to cut pizza before the rolling cutter was invented?
+> Lil Caesars
 <!-- JOKE-END -->
