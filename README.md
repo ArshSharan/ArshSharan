@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What did Romans use to cut pizza before the rolling cutter was invented?
-> Lil Caesars
+> How do you tell the difference between a crocodile and an alligator?
+> You will see one later and one in a while.
 <!-- JOKE-END -->
