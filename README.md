@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What do you call a pile of cats?
-> A Meowtain.
+> What did the spaghetti say to the other spaghetti?
+> Pasta la vista, baby!
 <!-- JOKE-END -->
