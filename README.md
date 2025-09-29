@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What did the spaghetti say to the other spaghetti?
-> Pasta la vista, baby!
+> What’s Forest Gump’s Facebook password?
+> 1forest1
 <!-- JOKE-END -->
