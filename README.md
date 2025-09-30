@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What’s Forest Gump’s Facebook password?
-> 1forest1
+> Dad, can you put my shoes on?
+> I don't think they'll fit me.
 <!-- JOKE-END -->
