@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How do you fix a broken pizza?
-> With tomato paste.
+> Why couldn't the bicycle stand up by itself?
+> It was two-tired.
 <!-- JOKE-END -->
