@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why couldn't the bicycle stand up by itself?
-> It was two-tired.
+> Why do bees have sticky hair?
+> Because they use honey combs!
 <!-- JOKE-END -->
