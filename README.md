@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why do bees have sticky hair?
-> Because they use honey combs!
+> What do you call a cow with no legs?
+> Ground beef!
 <!-- JOKE-END -->
