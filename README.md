@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What do you call a cow with no legs?
-> Ground beef!
+> The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
+> Thank you very much, sir.
 <!-- JOKE-END -->
