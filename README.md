@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
-> Thank you very much, sir.
+> What’s 50 Cent’s name in Zimbabwe?
+> 200 Dollars.
 <!-- JOKE-END -->
