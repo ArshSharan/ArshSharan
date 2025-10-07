@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What’s 50 Cent’s name in Zimbabwe?
-> 200 Dollars.
+> I had a dream that I was a muffler last night.
+> I woke up exhausted!
 <!-- JOKE-END -->
