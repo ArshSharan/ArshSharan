@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> I had a dream that I was a muffler last night.
-> I woke up exhausted!
+> What do you call a boomerang that won't come back?
+> A stick.
 <!-- JOKE-END -->
