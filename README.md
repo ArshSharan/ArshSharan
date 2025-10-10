@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Ever wondered why bees hum?
-> It's because they don't know the words.
+> Why couldn't the kid see the pirate movie?
+> Because it was rated arrr!
 <!-- JOKE-END -->
