@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why couldn't the kid see the pirate movie?
-> Because it was rated arrr!
+> Can I watch the TV?
+> Yes, but don’t turn it on.
 <!-- JOKE-END -->
