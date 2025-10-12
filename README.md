@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Can I watch the TV?
-> Yes, but don’t turn it on.
+> Where does Fonzie like to go for lunch?
+> Chick-Fil-Eyyyyyyyy.
 <!-- JOKE-END -->
