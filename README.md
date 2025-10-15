@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why do Java programmers wear glasses?
-> Because they don't C#.
+> 99.9% of the people are dumb!
+> Fortunately I belong to the remaining 1%
 <!-- JOKE-END -->
