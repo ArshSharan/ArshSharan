@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> 99.9% of the people are dumb!
-> Fortunately I belong to the remaining 1%
+> I got hit in the head by a soda can, but it didn't hurt that much...
+> It was a soft drink.
 <!-- JOKE-END -->
