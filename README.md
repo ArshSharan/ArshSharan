@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> I got hit in the head by a soda can, but it didn't hurt that much...
-> It was a soft drink.
+> How does a French skeleton say hello?
+> Bone-jour.
 <!-- JOKE-END -->
