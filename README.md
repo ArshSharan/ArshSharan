@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How does a French skeleton say hello?
-> Bone-jour.
+> Why did the developer quit his job?
+> Because he didn't get arrays.
 <!-- JOKE-END -->
