@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why did the developer quit his job?
-> Because he didn't get arrays.
+> Why did the designer break up with their font?
+> Because it wasn't their type.
 <!-- JOKE-END -->
