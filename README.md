@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why did the designer break up with their font?
-> Because it wasn't their type.
+> Why did the golfer wear two pairs of pants?
+> In case he got a hole in one.
 <!-- JOKE-END -->
