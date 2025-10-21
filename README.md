@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why did the golfer wear two pairs of pants?
-> In case he got a hole in one.
+> When a dad drives past a graveyard: Did you know that's a popular cemetery?
+> Yep, people are just dying to get in there
 <!-- JOKE-END -->
