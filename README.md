@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> When a dad drives past a graveyard: Did you know that's a popular cemetery?
-> Yep, people are just dying to get in there
+> What lies at the bottom of the ocean and twitches?
+> A nervous wreck.
 <!-- JOKE-END -->
