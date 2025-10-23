@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What lies at the bottom of the ocean and twitches?
-> A nervous wreck.
+> There are 10 types of people in this world...
+> Those who understand binary and those who don't
 <!-- JOKE-END -->
