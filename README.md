@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> There are 10 types of people in this world...
-> Those who understand binary and those who don't
+> What's blue and not very heavy?
+> Light blue.
 <!-- JOKE-END -->
