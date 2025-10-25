@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What's blue and not very heavy?
-> Light blue.
+> What do you call a bear with no teeth?
+> A gummy bear!
 <!-- JOKE-END -->
