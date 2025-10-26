@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What do you call a bear with no teeth?
-> A gummy bear!
+> What do you call a droid that takes the long way around?
+> R2 detour.
 <!-- JOKE-END -->
