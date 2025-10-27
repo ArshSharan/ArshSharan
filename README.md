@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What do you call a droid that takes the long way around?
-> R2 detour.
+> What’s 50 Cent’s name in Zimbabwe?
+> 200 Dollars.
 <!-- JOKE-END -->
