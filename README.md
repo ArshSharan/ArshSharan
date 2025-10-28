@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What’s 50 Cent’s name in Zimbabwe?
-> 200 Dollars.
+> Don't look at the eclipse through a colander.
+> You'll strain your eyes.
 <!-- JOKE-END -->
