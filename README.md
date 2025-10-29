@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Don't look at the eclipse through a colander.
-> You'll strain your eyes.
+> What do you call a girl between two posts?
+> Annette.
 <!-- JOKE-END -->
