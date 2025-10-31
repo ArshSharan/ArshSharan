@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Did you hear about the chameleon who couldn't change color?
-> They had a reptile dysfunction.
+> Did you watch the new comic book movie?
+> It was very graphic!
 <!-- JOKE-END -->
