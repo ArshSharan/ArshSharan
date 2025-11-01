@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Did you watch the new comic book movie?
-> It was very graphic!
+> Why do crabs never give to charity?
+> Because they’re shellfish.
 <!-- JOKE-END -->
