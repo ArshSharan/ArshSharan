@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why are skeletons so calm?
-> Because nothing gets under their skin.
+> Why do bees hum?
+> Because they don't know the words.
 <!-- JOKE-END -->
