@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why do bees hum?
-> Because they don't know the words.
+> Why is seven bigger than nine?
+> Because seven ate nine.
 <!-- JOKE-END -->
