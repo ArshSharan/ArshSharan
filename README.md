@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why is seven bigger than nine?
-> Because seven ate nine.
+> Why can't your nose be 12 inches long?
+> Because then it'd be a foot!
 <!-- JOKE-END -->
