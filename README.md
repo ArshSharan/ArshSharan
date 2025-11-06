@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why can't your nose be 12 inches long?
-> Because then it'd be a foot!
+> How do you check if a webpage is HTML5?
+> Try it out on Internet Explorer
 <!-- JOKE-END -->
