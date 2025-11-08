@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> How many optometrists does it take to change a light bulb?
-> 1 or 2? 1... or 2?
+> What do vegetarian zombies eat?
+> Grrrrrainnnnnssss.
 <!-- JOKE-END -->
