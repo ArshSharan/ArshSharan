@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What do vegetarian zombies eat?
-> Grrrrrainnnnnssss.
+> Why didn't the number 4 get into the nightclub?
+> Because he is 2 square.
 <!-- JOKE-END -->
