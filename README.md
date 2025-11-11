@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why do you never see elephants hiding in trees?
-> Because they're so good at it.
+> Why did the mushroom get invited to the party?
+> Because he was a fungi.
 <!-- JOKE-END -->
