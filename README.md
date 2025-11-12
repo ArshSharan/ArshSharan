@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why did the mushroom get invited to the party?
-> Because he was a fungi.
+> Why did Sweden start painting barcodes on the sides of their battleships?
+> So they could Scandinavian.
 <!-- JOKE-END -->
