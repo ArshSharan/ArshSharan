@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why did Sweden start painting barcodes on the sides of their battleships?
-> So they could Scandinavian.
+> There are 10 types of people in this world...
+> Those who understand binary and those who don't
 <!-- JOKE-END -->
