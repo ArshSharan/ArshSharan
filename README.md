@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why do pirates not know the alphabet?
-> They always get stuck at "C".
+> Why did the developer go broke buying Bitcoin?
+> He kept calling it bytecoin and didn't get any.
 <!-- JOKE-END -->
