@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why did the developer go broke buying Bitcoin?
-> He kept calling it bytecoin and didn't get any.
+> What goes after USA?
+> USB.
 <!-- JOKE-END -->
