@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What goes after USA?
-> USB.
+> Where do you learn to make banana splits?
+> At sundae school.
 <!-- JOKE-END -->
