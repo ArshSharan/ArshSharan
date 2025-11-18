@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Where do you learn to make banana splits?
-> At sundae school.
+> What did the scarf say to the hat?
+> You go on ahead, I am going to hang around a bit longer.
 <!-- JOKE-END -->
