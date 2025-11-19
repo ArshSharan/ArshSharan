@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What did the scarf say to the hat?
-> You go on ahead, I am going to hang around a bit longer.
+> Why are ghosts bad liars?
+> Because you can see right through them!
 <!-- JOKE-END -->
