@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> Why are ghosts bad liars?
-> Because you can see right through them!
+> What type of music do balloons hate?
+> Pop music!
 <!-- JOKE-END -->
