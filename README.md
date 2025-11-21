@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What type of music do balloons hate?
-> Pop music!
+> What did the shy pebble wish for?
+> That she was a little boulder.
 <!-- JOKE-END -->
