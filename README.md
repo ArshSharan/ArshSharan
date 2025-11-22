@@ -4,39 +4,31 @@
 
 <br/>
 
-<a href="https://twitter.com/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Arsh Sharan | Twitter" ></img></a>
-<a href="https://www.linkedin.com/in/arsh-sharan-38901628b/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Arsh Sharan | Linkedin" /></a>
-<a href="https://github.com/ArshSharan" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Arsh Sharan | GitHub" /></a>
+<div align="right">
+  <a href="https://x.com/ArshSharan82789" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Arsh Sharan | Twitter" /></a>
+  <a href="https://www.linkedin.com/in/arsh-sharan-38901628b/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Arsh Sharan | Linkedin" /></a>
+  <a href="https://github.com/ArshSharan" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Arsh Sharan | GitHub" /></a>
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3>👾 System Status: <i>Online</i></h3>
 
-<table style="border: none; width: 100%;">
-  <tr>
-    <td width="60%" valign="top" style="border: none;">
-      <table style="border: none; width: 100%;">
-        <tr>
-          <td align="left" valign="top" width="50%">
-            <h3>🔭 Mission Log</h3>
-            <br>
-            - 🌱 <b>Leveling up:</b> Reverse Engineering & Exploits<br>
-            - 🛡️ <b>Building:</b> AI-Powered Security Tools<br>
-            - 🚩 <b>Activity:</b> CTF Player & Red Teamer
-          </td>
-          <td align="left" valign="top" width="50%">
-            <h3>📡 Transmission</h3>
-            <br>
-            - 💬 <b>Intel:</b> Ethical Hacking, AI, Backend Security<br>
-            - 📫 <b>Comms:</b> <a href="mailto:arshsharan06@gmail.com">arshsharan06@gmail.com</a><br>
-            - ⚡ <b>Secret:</b> I hunt for hidden data in pixels (Steganography)
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="40%" valign="center" align="center" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100%">
-    </td>
-  </tr>
-</table>
+<div style="overflow: hidden;">
+  <div style="float: left; width: 45%; min-width: 280px; margin-right: 20px;">
+    <h3>🔭 Mission Log</h3>
+    <br>
+    - 🌱 <b>Leveling up:</b> Reverse Engineering & Exploits<br>
+    - 🛡️ <b>Building:</b> AI-Powered Security Tools<br>
+    - 🚩 <b>Activity:</b> CTF Player & Red Teamer
+  </div>
+  <div style="float: left; width: 45%; min-width: 280px;">
+    <h3>📡 Transmission</h3>
+    <br>
+    - 💬 <b>Intel:</b> Ethical Hacking, AI, Backend Security<br>
+    - 📫 <b>Comms:</b> <a href="mailto:arshsharan06@gmail.com">arshsharan06@gmail.com</a><br>
+    - ⚡ <b>Secret:</b> I hunt for hidden data in pixels (Steganography)
+  </div>
+</div>
+<br clear="all" />
 
 <br/>
 
@@ -87,26 +79,12 @@
   </div>
 </details>
 
-<br/>
-
-<details>
-  <summary>
-    <img src="./assets/Pc Coding Sticker by IYKRA.com.gif" width="35"> &ensp;
-    <b>Weekly development breakdown</b>
-  </summary>
-
-
-  
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-</details>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
 
-<h3 align="center">😂 Random Joke of the Day</h3>
 
-<div align="center">
+<h3>😂 Random Joke of the Day</h3>
+
+<div>
   
 <!-- JOKE-START -->
 > Did you hear about the guy whose whole left side was cut off?
