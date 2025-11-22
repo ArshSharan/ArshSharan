@@ -7,7 +7,6 @@
 <div align="right">
   <a href="https://x.com/ArshSharan82789" target="_blank" rel="noopener noreferrer"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Arsh Sharan | Twitter" /></a>
   <a href="https://www.linkedin.com/in/arsh-sharan-38901628b/" target="_blank" rel="noopener noreferrer"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Arsh Sharan | Linkedin" /></a>
-  <a href="https://github.com/ArshSharan" target="_blank" rel="noopener noreferrer"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Arsh Sharan | GitHub" /></a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3>👾 System Status: <i>Online</i></h3>
