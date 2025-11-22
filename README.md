@@ -44,6 +44,6 @@
 > _“Loading a fresh joke...”_
 
 <!-- JOKE-START -->
-> What did the shy pebble wish for?
-> That she was a little boulder.
+> Did you hear about the guy whose whole left side was cut off?
+> He's all right now.
 <!-- JOKE-END -->
