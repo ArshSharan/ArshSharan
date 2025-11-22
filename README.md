@@ -5,23 +5,23 @@
 <br/>
 
 <div align="right">
-  <a href="https://x.com/ArshSharan82789" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Arsh Sharan | Twitter" /></a>
-  <a href="https://www.linkedin.com/in/arsh-sharan-38901628b/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Arsh Sharan | Linkedin" /></a>
-  <a href="https://github.com/ArshSharan" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Arsh Sharan | GitHub" /></a>
+  <a href="https://x.com/ArshSharan82789" target="_blank" rel="noopener noreferrer"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Arsh Sharan | Twitter" /></a>
+  <a href="https://www.linkedin.com/in/arsh-sharan-38901628b/" target="_blank" rel="noopener noreferrer"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Arsh Sharan | Linkedin" /></a>
+  <a href="https://github.com/ArshSharan" target="_blank" rel="noopener noreferrer"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Arsh Sharan | GitHub" /></a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3>👾 System Status: <i>Online</i></h3>
 
 <div style="overflow: hidden;">
-  <div style="float: left; width: 45%; min-width: 280px; margin-right: 20px;">
-    <h3>🔭 Mission Log</h3>
+  <div style="float: left; width: 49%; min-width: 260px;">
+    <h3>>_ Mission Log</h3>
     <br>
     - 🌱 <b>Leveling up:</b> Reverse Engineering & Exploits<br>
     - 🛡️ <b>Building:</b> AI-Powered Security Tools<br>
     - 🚩 <b>Activity:</b> CTF Player & Red Teamer
   </div>
-  <div style="float: left; width: 45%; min-width: 280px;">
-    <h3>📡 Transmission</h3>
+  <div style="float: left; width: 49%; min-width: 260px;">
+    <h3>>_ Transmission</h3>
     <br>
     - 💬 <b>Intel:</b> Ethical Hacking, AI, Backend Security<br>
     - 📫 <b>Comms:</b> <a href="mailto:arshsharan06@gmail.com">arshsharan06@gmail.com</a><br>
