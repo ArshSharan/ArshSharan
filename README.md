@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you hear about the guy whose whole left side was cut off?
-> He's all right now.
+> What's blue and not very heavy?
+> Light blue.
 <!-- JOKE-END -->
 
 </div>
