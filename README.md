@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What's blue and not very heavy?
-> Light blue.
+> Why did the programmer quit their job?
+> They didn't get arrays.
 <!-- JOKE-END -->
 
 </div>
