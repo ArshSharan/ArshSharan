@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the programmer quit their job?
-> They didn't get arrays.
+> How does the moon cut his hair?
+> Eclipse it.
 <!-- JOKE-END -->
 
 </div>
