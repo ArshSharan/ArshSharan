@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How does the moon cut his hair?
-> Eclipse it.
+> What do you call a careful wolf?
+> Aware wolf.
 <!-- JOKE-END -->
 
 </div>
