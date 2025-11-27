@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a careful wolf?
-> Aware wolf.
+> Where do hamburgers go to dance?
+> The meat-ball.
 <!-- JOKE-END -->
 
 </div>
