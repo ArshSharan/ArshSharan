@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Where do hamburgers go to dance?
-> The meat-ball.
+> Why did the developer quit his job?
+> Because he didn't get arrays.
 <!-- JOKE-END -->
 
 </div>
