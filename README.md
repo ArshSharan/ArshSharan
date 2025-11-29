@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the developer quit his job?
-> Because he didn't get arrays.
+> How many apples grow on a tree?
+> All of them!
 <!-- JOKE-END -->
 
 </div>
