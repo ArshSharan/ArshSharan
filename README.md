@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How many apples grow on a tree?
-> All of them!
+> What did the late tomato say to the early tomato?
+> I’ll ketch up
 <!-- JOKE-END -->
 
 </div>
