@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the late tomato say to the early tomato?
-> I’ll ketch up
+> Ever wondered why bees hum?
+> It's because they don't know the words.
 <!-- JOKE-END -->
 
 </div>
