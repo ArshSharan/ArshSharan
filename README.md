@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What is the leading cause of dry skin?
-> Towels
+> Want to hear a joke about a piece of paper?
+> Never mind...it's tearable
 <!-- JOKE-END -->
 
 </div>
