@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Want to hear a joke about a piece of paper?
-> Never mind...it's tearable
+> What kind of music do planets listen to?
+> Nep-tunes.
 <!-- JOKE-END -->
 
 </div>
