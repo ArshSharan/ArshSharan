@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What kind of music do planets listen to?
-> Nep-tunes.
+> What do you call a singing Laptop?
+> A Dell
 <!-- JOKE-END -->
 
 </div>
