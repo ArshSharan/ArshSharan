@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a singing Laptop?
-> A Dell
+> What’s E.T. short for?
+> He’s only got little legs.
 <!-- JOKE-END -->
 
 </div>
