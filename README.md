@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What’s E.T. short for?
-> He’s only got little legs.
+> Why did the functions stop calling each other?
+> Because they had constant arguments.
 <!-- JOKE-END -->
 
 </div>
