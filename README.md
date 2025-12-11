@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the functions stop calling each other?
-> Because they had constant arguments.
+> Why didn’t the skeleton cross the road?
+> Because he had no guts.
 <!-- JOKE-END -->
 
 </div>
