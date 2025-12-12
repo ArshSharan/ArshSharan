@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why didn’t the skeleton cross the road?
-> Because he had no guts.
+> Want to hear my pizza joke?
+> Never mind, it's too cheesy.
 <!-- JOKE-END -->
 
 </div>
