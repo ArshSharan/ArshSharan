@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Want to hear my pizza joke?
-> Never mind, it's too cheesy.
+> What's a computer's favorite snack?
+> Microchips.
 <!-- JOKE-END -->
 
 </div>
