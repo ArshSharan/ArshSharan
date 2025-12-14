@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What's a computer's favorite snack?
-> Microchips.
+> What's black and white and read all over?
+> The newspaper.
 <!-- JOKE-END -->
 
 </div>
