@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What's black and white and read all over?
-> The newspaper.
+> Why did the programmer's wife leave him?
+> He didn't know how to commit.
 <!-- JOKE-END -->
 
 </div>
