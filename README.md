@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the programmer's wife leave him?
-> He didn't know how to commit.
+> Where does batman go to the bathroom?
+> The batroom.
 <!-- JOKE-END -->
 
 </div>
