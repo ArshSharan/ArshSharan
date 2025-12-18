@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What's blue and not very heavy?
-> Light blue.
+> What do you do on a remote island?
+> Try and find the TV island it belongs to.
 <!-- JOKE-END -->
 
 </div>
