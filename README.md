@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you do on a remote island?
-> Try and find the TV island it belongs to.
+> Two guys walk into a bar . . .
+> The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
 <!-- JOKE-END -->
 
 </div>
