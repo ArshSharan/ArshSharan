@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Two guys walk into a bar . . .
-> The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
+> Why didn't the number 4 get into the nightclub?
+> Because he is 2 square.
 <!-- JOKE-END -->
 
 </div>
