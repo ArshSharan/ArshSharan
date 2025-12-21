@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why didn't the number 4 get into the nightclub?
-> Because he is 2 square.
+> Why did the kid throw the watch out the window?
+> So time would fly.
 <!-- JOKE-END -->
 
 </div>
