@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the kid throw the watch out the window?
-> So time would fly.
+> Why did the golfer bring two pairs of pants?
+> In case he got a hole in one.
 <!-- JOKE-END -->
 
 </div>
