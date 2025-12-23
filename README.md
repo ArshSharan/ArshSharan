@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the golfer bring two pairs of pants?
-> In case he got a hole in one.
+> Why do chicken coops only have two doors?
+> Because if they had four, they would be chicken sedans
 <!-- JOKE-END -->
 
 </div>
