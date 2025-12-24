@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do chicken coops only have two doors?
-> Because if they had four, they would be chicken sedans
+> Why do valley girls hang out in odd numbered groups?
+> Because they can't even.
 <!-- JOKE-END -->
 
 </div>
