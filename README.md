@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a fly without wings?
-> A walk.
+> How do the trees get on the internet?
+> They log on.
 <!-- JOKE-END -->
 
 </div>
