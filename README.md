@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How do the trees get on the internet?
-> They log on.
+> I dropped a pear in my car this morning.
+> You should drop another one, then you would have a pair.
 <!-- JOKE-END -->
 
 </div>
