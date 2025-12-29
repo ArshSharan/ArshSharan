@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What kind of music do planets listen to?
-> Nep-tunes.
+> What cheese can never be yours?
+> Nacho cheese.
 <!-- JOKE-END -->
 
 </div>
