@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What cheese can never be yours?
-> Nacho cheese.
+> Why are fish easy to weigh?
+> Because they have their own scales.
 <!-- JOKE-END -->
 
 </div>
