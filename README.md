@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why are fish easy to weigh?
-> Because they have their own scales.
+> What did the 0 say to the 8?
+> Nice belt.
 <!-- JOKE-END -->
 
 </div>
