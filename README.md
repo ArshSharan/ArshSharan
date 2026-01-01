@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the 0 say to the 8?
-> Nice belt.
+> Why did the fireman wear red, white, and blue suspenders?
+> To hold his pants up.
 <!-- JOKE-END -->
 
 </div>
