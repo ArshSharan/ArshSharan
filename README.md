@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the fireman wear red, white, and blue suspenders?
-> To hold his pants up.
+> If you put a million monkeys at a million keyboards, one of them will eventually write a Java program
+> the rest of them will write Perl
 <!-- JOKE-END -->
 
 </div>
