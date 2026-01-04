@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the Red light say to the Green light?
-> Don't look at me I'm changing!
+> Why don't scientists trust atoms?
+> Because they make up everything.
 <!-- JOKE-END -->
 
 </div>
