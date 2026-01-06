@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> A grocery store cashier asked if I would like my milk in a bag.
-> I told her 'No, thanks. The carton works fine.'
+> Why was the designer always cold?
+> Because they always used too much ice-olation.
 <!-- JOKE-END -->
 
 </div>
