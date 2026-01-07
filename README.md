@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why was the designer always cold?
-> Because they always used too much ice-olation.
+> How do you generate a random string?
+> Put a Windows user in front of Vim and tell them to exit.
 <!-- JOKE-END -->
 
 </div>
