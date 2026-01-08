@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How do you generate a random string?
-> Put a Windows user in front of Vim and tell them to exit.
+> Why are “Dad Jokes” so good?
+> Because the punchline is apparent.
 <!-- JOKE-END -->
 
 </div>
