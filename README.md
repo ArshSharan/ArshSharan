@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why are “Dad Jokes” so good?
-> Because the punchline is apparent.
+> Why did the tomato blush?
+> Because it saw the salad dressing.
 <!-- JOKE-END -->
 
 </div>
