@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the tomato blush?
-> Because it saw the salad dressing.
+> Why did the man run around his bed?
+> Because he was trying to catch up on his sleep!
 <!-- JOKE-END -->
 
 </div>
