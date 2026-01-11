@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the man run around his bed?
-> Because he was trying to catch up on his sleep!
+> Why did the developer break up with their keyboard?
+> It just wasn't their type anymore.
 <!-- JOKE-END -->
 
 </div>
