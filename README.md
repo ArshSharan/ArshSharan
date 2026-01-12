@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the developer break up with their keyboard?
-> It just wasn't their type anymore.
+> How did the hipster burn the roof of his mouth?
+> He ate the pizza before it was cool.
 <!-- JOKE-END -->
 
 </div>
