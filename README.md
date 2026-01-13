@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How did the hipster burn the roof of his mouth?
-> He ate the pizza before it was cool.
+> What do you get when you cross a rabbit with a water hose?
+> Hare spray.
 <!-- JOKE-END -->
 
 </div>
