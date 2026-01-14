@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you get when you cross a rabbit with a water hose?
-> Hare spray.
+> I dropped a pear in my car this morning.
+> You should drop another one, then you would have a pair.
 <!-- JOKE-END -->
 
 </div>
