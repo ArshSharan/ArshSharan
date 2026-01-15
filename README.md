@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> I dropped a pear in my car this morning.
-> You should drop another one, then you would have a pair.
+> Who did the wizard marry?
+> His ghoul-friend
 <!-- JOKE-END -->
 
 </div>
