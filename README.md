@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Who did the wizard marry?
-> His ghoul-friend
+> How did Darth Vader know what Luke was getting for Christmas?
+> He felt his presents.
 <!-- JOKE-END -->
 
 </div>
