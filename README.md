@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What was the pumpkin’s favorite sport?
-> Squash.
+> A termite walks into a bar and says...
+> 'Where is the bar tended?'
 <!-- JOKE-END -->
 
 </div>
