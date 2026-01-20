@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> A termite walks into a bar and says...
-> 'Where is the bar tended?'
+> What's the best thing about Switzerland?
+> I don't know, but their flag is a big plus.
 <!-- JOKE-END -->
 
 </div>
