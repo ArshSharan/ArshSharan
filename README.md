@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What's the best thing about Switzerland?
-> I don't know, but their flag is a big plus.
+> Have you heard the rumor going around about butter?
+> Never mind, I shouldn't spread it.
 <!-- JOKE-END -->
 
 </div>
