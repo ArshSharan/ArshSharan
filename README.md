@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Have you heard the rumor going around about butter?
-> Never mind, I shouldn't spread it.
+> Why did the programmer bring a ladder to work?
+> They heard the code needed to be debugged from a higher level.
 <!-- JOKE-END -->
 
 </div>
