@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the programmer bring a ladder to work?
-> They heard the code needed to be debugged from a higher level.
+> Did you know that protons have mass?
+> I didn't even know they were catholic.
 <!-- JOKE-END -->
 
 </div>
