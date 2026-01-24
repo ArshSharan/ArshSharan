@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you know that protons have mass?
-> I didn't even know they were catholic.
+> Why couldn't the lifeguard save the hippie?
+> He was too far out, man.
 <!-- JOKE-END -->
 
 </div>
