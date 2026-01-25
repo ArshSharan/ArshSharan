@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why couldn't the lifeguard save the hippie?
-> He was too far out, man.
+> What do you call a laughing motorcycle?
+> A Yamahahahaha.
 <!-- JOKE-END -->
 
 </div>
