@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the shy pebble wish for?
-> That she was a little boulder.
+> Why couldn't the lifeguard save the hippie?
+> He was too far out, man.
 <!-- JOKE-END -->
 
 </div>
