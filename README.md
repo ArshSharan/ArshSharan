@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why couldn't the lifeguard save the hippie?
-> He was too far out, man.
+> How do locomotives know where they're going?
+> Lots of training
 <!-- JOKE-END -->
 
 </div>
