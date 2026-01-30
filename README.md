@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How do locomotives know where they're going?
-> Lots of training
+> Why do birds fly south for the winter?
+> Because it's too far to walk.
 <!-- JOKE-END -->
 
 </div>
