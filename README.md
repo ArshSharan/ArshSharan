@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do birds fly south for the winter?
-> Because it's too far to walk.
+> What did the shy pebble wish for?
+> That she was a little boulder.
 <!-- JOKE-END -->
 
 </div>
