@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the shy pebble wish for?
-> That she was a little boulder.
+> Why did the man run around his bed?
+> Because he was trying to catch up on his sleep!
 <!-- JOKE-END -->
 
 </div>
