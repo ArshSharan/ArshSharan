@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the man run around his bed?
-> Because he was trying to catch up on his sleep!
+> What's the difference between a guitar and a fish?
+> You can tune a guitar but you can't "tuna"fish!
 <!-- JOKE-END -->
 
 </div>
