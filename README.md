@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What's the difference between a guitar and a fish?
-> You can tune a guitar but you can't "tuna"fish!
+> Why does a Moon-rock taste better than an Earth-rock?
+> Because it's a little meteor.
 <!-- JOKE-END -->
 
 </div>
