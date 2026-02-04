@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why does a Moon-rock taste better than an Earth-rock?
-> Because it's a little meteor.
+> What’s the object-oriented way to become wealthy?
+> Inheritance.
 <!-- JOKE-END -->
 
 </div>
