@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What’s the object-oriented way to become wealthy?
-> Inheritance.
+> When is a door not a door?
+> When it's ajar.
 <!-- JOKE-END -->
 
 </div>
