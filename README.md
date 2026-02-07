@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
-> Thank you very much, sir.
+> Why can't your nose be 12 inches long?
+> Because then it'd be a foot!
 <!-- JOKE-END -->
 
 </div>
