@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why can't your nose be 12 inches long?
-> Because then it'd be a foot!
+> Why did the developer break up with their keyboard?
+> It just wasn't their type anymore.
 <!-- JOKE-END -->
 
 </div>
