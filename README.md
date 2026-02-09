@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the developer break up with their keyboard?
-> It just wasn't their type anymore.
+> Who did the wizard marry?
+> His ghoul-friend
 <!-- JOKE-END -->
 
 </div>
