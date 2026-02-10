@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Who did the wizard marry?
-> His ghoul-friend
+> The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
+> Thank you very much, sir.
 <!-- JOKE-END -->
 
 </div>
