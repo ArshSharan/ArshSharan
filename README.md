@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
-> Thank you very much, sir.
+> Why didn't the skeleton go for prom?
+> Because it had nobody.
 <!-- JOKE-END -->
 
 </div>
