@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why didn't the skeleton go for prom?
-> Because it had nobody.
+> What kind of tree fits in your hand?
+> A palm tree!
 <!-- JOKE-END -->
 
 </div>
