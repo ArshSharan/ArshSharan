@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What kind of tree fits in your hand?
-> A palm tree!
+> What did the grape do when he got stepped on?
+> He let out a little wine.
 <!-- JOKE-END -->
 
 </div>
