@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the grape do when he got stepped on?
-> He let out a little wine.
+> Why did the cookie go to the doctor?
+>  Because it was feeling crumbly.
 <!-- JOKE-END -->
 
 </div>
