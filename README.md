@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the cookie go to the doctor?
->  Because it was feeling crumbly.
+> What do you call a computer mouse that swears a lot?
+> A cursor!
 <!-- JOKE-END -->
 
 </div>
