@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a computer mouse that swears a lot?
-> A cursor!
+> What’s Forest Gump’s Facebook password?
+> 1forest1
 <!-- JOKE-END -->
 
 </div>
