@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What’s Forest Gump’s Facebook password?
-> 1forest1
+> What happens to a frog's car when it breaks down?
+> It gets toad away
 <!-- JOKE-END -->
 
 </div>
