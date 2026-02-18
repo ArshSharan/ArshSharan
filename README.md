@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What happens to a frog's car when it breaks down?
-> It gets toad away
+> Why do choirs keep buckets handy?
+> So they can carry their tune
 <!-- JOKE-END -->
 
 </div>
