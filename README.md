@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do choirs keep buckets handy?
-> So they can carry their tune
+> Why would a guitarist become a good programmer?
+> He's adept at riffing in C#.
 <!-- JOKE-END -->
 
 </div>
