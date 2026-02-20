@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why would a guitarist become a good programmer?
-> He's adept at riffing in C#.
+> Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?
+> Because there’s a Shortstop in between!
 <!-- JOKE-END -->
 
 </div>
