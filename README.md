@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why does a Moon-rock taste better than an Earth-rock?
-> Because it's a little meteor.
+> I can't tell if i like this blender...
+> It keeps giving me mixed results.
 <!-- JOKE-END -->
 
 </div>
