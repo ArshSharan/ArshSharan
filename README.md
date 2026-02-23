@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> I can't tell if i like this blender...
-> It keeps giving me mixed results.
+> Did you hear about the submarine industry?
+> It really took a dive...
 <!-- JOKE-END -->
 
 </div>
