@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you hear about the submarine industry?
-> It really took a dive...
+> What do you call a cow with two legs?
+> Lean beef.
 <!-- JOKE-END -->
 
 </div>
