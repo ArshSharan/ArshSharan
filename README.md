@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the cookie cry?
-> It was feeling crumby.
+> How many hipsters does it take to change a lightbulb?
+> Oh, it's a really obscure number. You've probably never heard of it.
 <!-- JOKE-END -->
 
 </div>
