@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a fly without wings?
-> A walk.
+> Knock-knock.
+> A race condition. Who is there?
 <!-- JOKE-END -->
 
 </div>
