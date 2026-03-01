@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Knock-knock.
-> A race condition. Who is there?
+> What do you call a bee that lives in America?
+> A USB.
 <!-- JOKE-END -->
 
 </div>
