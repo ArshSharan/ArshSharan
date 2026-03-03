@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a bee that lives in America?
-> A USB.
+> Why do bears have hairy coats?
+> Fur protection.
 <!-- JOKE-END -->
 
 </div>
