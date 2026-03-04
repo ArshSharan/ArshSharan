@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do bears have hairy coats?
-> Fur protection.
+> What lies at the bottom of the ocean and twitches?
+> A nervous wreck.
 <!-- JOKE-END -->
 
 </div>
