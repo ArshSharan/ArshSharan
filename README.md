@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What lies at the bottom of the ocean and twitches?
-> A nervous wreck.
+> What do you call a dictionary on drugs?
+> High definition.
 <!-- JOKE-END -->
 
 </div>
