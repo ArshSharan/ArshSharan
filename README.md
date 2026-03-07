@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why are skeletons so calm?
-> Because nothing gets under their skin.
+> I couldn't get a reservation at the library...
+> They were fully booked.
 <!-- JOKE-END -->
 
 </div>
