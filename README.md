@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> I couldn't get a reservation at the library...
-> They were fully booked.
+> What did one wall say to the other wall?
+> I'll meet you at the corner!
 <!-- JOKE-END -->
 
 </div>
