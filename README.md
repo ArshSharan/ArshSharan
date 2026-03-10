@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do elves post on Social Media?
-> Elf-ies.
+> Why was the developer always calm?
+> Because they knew how to handle exceptions.
 <!-- JOKE-END -->
 
 </div>
