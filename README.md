@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why was the developer always calm?
-> Because they knew how to handle exceptions.
+> What did one plate say to the other plate?
+> Dinner is on me!
 <!-- JOKE-END -->
 
 </div>
