@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did one plate say to the other plate?
-> Dinner is on me!
+> My older brother always tore the last pages of my comic books, and never told me why.
+> I had to draw my own conclusions.
 <!-- JOKE-END -->
 
 </div>
