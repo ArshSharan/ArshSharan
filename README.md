@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> My older brother always tore the last pages of my comic books, and never told me why.
-> I had to draw my own conclusions.
+> Why do chicken coops only have two doors?
+> Because if they had four, they would be chicken sedans
 <!-- JOKE-END -->
 
 </div>
