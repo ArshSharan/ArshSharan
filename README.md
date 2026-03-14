@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do chicken coops only have two doors?
-> Because if they had four, they would be chicken sedans
+> Why do trees seem suspicious on sunny days?
+> Dunno, they're just a bit shady.
 <!-- JOKE-END -->
 
 </div>
