@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you hear about the guy whose whole left side was cut off?
-> He's all right now.
+> Did you hear about the runner who was criticized?
+> He just took it in stride
 <!-- JOKE-END -->
 
 </div>
