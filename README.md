@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you hear about the runner who was criticized?
-> He just took it in stride
+> What did the dog say to the two trees?
+> Bark bark.
 <!-- JOKE-END -->
 
 </div>
