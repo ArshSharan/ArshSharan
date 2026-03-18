@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the dog say to the two trees?
-> Bark bark.
+> Why do ducks make great detectives?
+> They always quack the case.
 <!-- JOKE-END -->
 
 </div>
