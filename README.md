@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do ducks make great detectives?
-> They always quack the case.
+> Which song would an exception sing?
+> Can't catch me - Avicii
 <!-- JOKE-END -->
 
 </div>
