@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Which song would an exception sing?
-> Can't catch me - Avicii
+> What do you call an elephant that doesn’t matter?
+> An irrelephant.
 <!-- JOKE-END -->
 
 </div>
