@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call an elephant that doesn’t matter?
-> An irrelephant.
+> Why was the designer always cold?
+> Because they always used too much ice-olation.
 <!-- JOKE-END -->
 
 </div>
