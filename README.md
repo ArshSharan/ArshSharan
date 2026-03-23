@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How are false teeth like stars?
-> They come out at night!
+> Why was the designer always cold?
+> Because they always used too much ice-olation.
 <!-- JOKE-END -->
 
 </div>
