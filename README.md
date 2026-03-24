@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why was the designer always cold?
-> Because they always used too much ice-olation.
+> What do you call a troublesome Canadian high schooler?
+> A poutine.
 <!-- JOKE-END -->
 
 </div>
