@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a troublesome Canadian high schooler?
-> A poutine.
+> What did the shy pebble wish for?
+> That she was a little boulder.
 <!-- JOKE-END -->
 
 </div>
