@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the shy pebble wish for?
-> That she was a little boulder.
+> Did you hear the one about the guy with the broken hearing aid?
+> Neither did he.
 <!-- JOKE-END -->
 
 </div>
