@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you hear the one about the guy with the broken hearing aid?
-> Neither did he.
+> Did you know you should always take an extra pair of pants golfing?
+> Just in case you get a hole in one.
 <!-- JOKE-END -->
 
 </div>
