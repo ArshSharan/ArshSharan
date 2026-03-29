@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the belt go to prison?
-> He held up a pair of pants!
+> How can you tell a vampire has a cold?
+> They start coffin.
 <!-- JOKE-END -->
 
 </div>
