@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How can you tell a vampire has a cold?
-> They start coffin.
+> How come a man driving a train got struck by lightning?
+> He was a good conductor.
 <!-- JOKE-END -->
 
 </div>
