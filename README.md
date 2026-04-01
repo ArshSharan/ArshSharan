@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Hey, dad, did you get a haircut?
-> No, I got them all cut.
+> What do you call a laughing motorcycle?
+> A Yamahahahaha.
 <!-- JOKE-END -->
 
 </div>
