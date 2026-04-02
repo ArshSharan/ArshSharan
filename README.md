@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a laughing motorcycle?
-> A Yamahahahaha.
+> Why did the cookie go to the doctor?
+>  Because it was feeling crumbly.
 <!-- JOKE-END -->
 
 </div>
