@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the cookie go to the doctor?
->  Because it was feeling crumbly.
+> Why do programmers prefer dark chocolate?
+> Because it's bitter like their code.
 <!-- JOKE-END -->
 
 </div>
