@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do programmers prefer dark chocolate?
-> Because it's bitter like their code.
+> Lady: How do I spread love in this cruel world?
+> Random Dude: [...💘]
 <!-- JOKE-END -->
 
 </div>
