@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Lady: How do I spread love in this cruel world?
-> Random Dude: [...💘]
+> Is there a hole in your shoe?
+> No… Then how’d you get your foot in it?
 <!-- JOKE-END -->
 
 </div>
