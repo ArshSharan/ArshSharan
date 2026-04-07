@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Is there a hole in your shoe?
-> No… Then how’d you get your foot in it?
+> What is a centipedes's favorite Beatle song?
+> I want to hold your hand, hand, hand, hand...
 <!-- JOKE-END -->
 
 </div>
