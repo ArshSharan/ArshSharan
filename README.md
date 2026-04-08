@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What is a centipedes's favorite Beatle song?
-> I want to hold your hand, hand, hand, hand...
+> What is the hardest part about sky diving?
+> The ground.
 <!-- JOKE-END -->
 
 </div>
