@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What is the hardest part about sky diving?
-> The ground.
+> What’s the advantage of living in Switzerland?
+> Well, the flag is a big plus.
 <!-- JOKE-END -->
 
 </div>
