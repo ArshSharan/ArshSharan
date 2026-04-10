@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What’s the advantage of living in Switzerland?
-> Well, the flag is a big plus.
+> Why didn’t the skeleton cross the road?
+> Because he had no guts.
 <!-- JOKE-END -->
 
 </div>
