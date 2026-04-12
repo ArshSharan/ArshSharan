@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did celery say when he broke up with his girlfriend?
-> She wasn't right for me, so I really don't carrot all.
+> I bought some shoes from a drug dealer.
+> I don't know what he laced them with, but I was tripping all day!
 <!-- JOKE-END -->
 
 </div>
