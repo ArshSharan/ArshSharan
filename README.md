@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> I bought some shoes from a drug dealer.
-> I don't know what he laced them with, but I was tripping all day!
+> Why didn't the skeleton go for prom?
+> Because it had nobody.
 <!-- JOKE-END -->
 
 </div>
