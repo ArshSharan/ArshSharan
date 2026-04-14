@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why didn't the skeleton go for prom?
-> Because it had nobody.
+> What do you call a fashionable lawn statue with an excellent sense of rhythmn?
+> A metro-gnome
 <!-- JOKE-END -->
 
 </div>
