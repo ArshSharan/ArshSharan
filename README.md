@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you hear about the kidnapping at school?
-> It's ok, he woke up.
+> I had a dream that I was a muffler last night.
+> I woke up exhausted!
 <!-- JOKE-END -->
 
 </div>
