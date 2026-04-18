@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> I had a dream that I was a muffler last night.
-> I woke up exhausted!
+> What did the Red light say to the Green light?
+> Don't look at me I'm changing!
 <!-- JOKE-END -->
 
 </div>
