@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How are false teeth like stars?
-> They come out at night!
+> You see, mountains aren't just funny.
+> They are hill areas.
 <!-- JOKE-END -->
 
 </div>
