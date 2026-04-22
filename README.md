@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> You see, mountains aren't just funny.
-> They are hill areas.
+> Why did the house go to the doctor?
+> It was having window panes.
 <!-- JOKE-END -->
 
 </div>
