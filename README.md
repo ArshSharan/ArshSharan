@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the house go to the doctor?
-> It was having window panes.
+> Well...
+> That’s a deep subject.
 <!-- JOKE-END -->
 
 </div>
