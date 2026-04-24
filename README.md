@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Well...
-> That’s a deep subject.
+> What musical instrument is found in the bathroom?
+> A tuba toothpaste.
 <!-- JOKE-END -->
 
 </div>
