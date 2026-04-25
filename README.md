@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What musical instrument is found in the bathroom?
-> A tuba toothpaste.
+> Why do chicken coops only have two doors?
+> Because if they had four, they would be chicken sedans
 <!-- JOKE-END -->
 
 </div>
