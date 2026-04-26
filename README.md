@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do chicken coops only have two doors?
-> Because if they had four, they would be chicken sedans
+> Did you hear that David lost his ID in prague?
+> Now we just have to call him Dav.
 <!-- JOKE-END -->
 
 </div>
