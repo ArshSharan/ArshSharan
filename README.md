@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you hear that David lost his ID in prague?
-> Now we just have to call him Dav.
+> I was gonna tell you a joke about UDP...
+> ...but you might not get it.
 <!-- JOKE-END -->
 
 </div>
