@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> I was gonna tell you a joke about UDP...
-> ...but you might not get it.
+> What goes after USA?
+> USB.
 <!-- JOKE-END -->
 
 </div>
