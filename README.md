@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What goes after USA?
-> USB.
+> Why did the chicken get a penalty?
+> For fowl play.
 <!-- JOKE-END -->
 
 </div>
