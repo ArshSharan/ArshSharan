@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the chicken get a penalty?
-> For fowl play.
+> What kind of magic do cows believe in?
+> MOODOO.
 <!-- JOKE-END -->
 
 </div>
