@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What kind of magic do cows believe in?
-> MOODOO.
+> Why do Java programmers wear glasses?
+> Because they don't C#.
 <!-- JOKE-END -->
 
 </div>
