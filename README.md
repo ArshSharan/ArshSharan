@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do Java programmers wear glasses?
-> Because they don't C#.
+> How does the moon cut his hair?
+> Eclipse it.
 <!-- JOKE-END -->
 
 </div>
