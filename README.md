@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How does the moon cut his hair?
-> Eclipse it.
+> Why do chicken coops only have two doors?
+> Because if they had four, they would be chicken sedans
 <!-- JOKE-END -->
 
 </div>
