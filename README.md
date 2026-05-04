@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do chicken coops only have two doors?
-> Because if they had four, they would be chicken sedans
+> What did the dog say to the two trees?
+> Bark bark.
 <!-- JOKE-END -->
 
 </div>
