@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the dog say to the two trees?
-> Bark bark.
+> Why couldn't the lifeguard save the hippie?
+> He was too far out, man.
 <!-- JOKE-END -->
 
 </div>
