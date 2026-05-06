@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why couldn't the lifeguard save the hippie?
-> He was too far out, man.
+> Did you hear about the two silk worms in a race?
+> It ended in a tie.
 <!-- JOKE-END -->
 
 </div>
