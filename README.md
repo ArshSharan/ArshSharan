@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you hear about the two silk worms in a race?
-> It ended in a tie.
+> Why do bananas have to put on sunscreen before they go to the beach?
+> Because they might peel!
 <!-- JOKE-END -->
 
 </div>
