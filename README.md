@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do bananas have to put on sunscreen before they go to the beach?
-> Because they might peel!
+> What do you call a sheep with no legs?
+> A cloud.
 <!-- JOKE-END -->
 
 </div>
