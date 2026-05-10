@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Where does Fonzie like to go for lunch?
-> Chick-Fil-Eyyyyyyyy.
+> Did you hear about the cow who jumped over the barbed wire fence?
+> It was udder destruction.
 <!-- JOKE-END -->
 
 </div>
