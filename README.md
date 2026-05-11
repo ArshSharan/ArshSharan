@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you hear about the cow who jumped over the barbed wire fence?
-> It was udder destruction.
+> Why didn’t the orange win the race?
+> It ran out of juice.
 <!-- JOKE-END -->
 
 </div>
