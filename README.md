@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why didn’t the orange win the race?
-> It ran out of juice.
+> Why did the coffee file a police report?
+> It got mugged.
 <!-- JOKE-END -->
 
 </div>
