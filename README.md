@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the coffee file a police report?
-> It got mugged.
+> Why did the developer go to therapy?
+> They had too many unresolved issues.
 <!-- JOKE-END -->
 
 </div>
