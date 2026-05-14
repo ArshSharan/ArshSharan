@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the developer go to therapy?
-> They had too many unresolved issues.
+> There are 10 types of people in this world...
+> Those who understand binary and those who don't
 <!-- JOKE-END -->
 
 </div>
