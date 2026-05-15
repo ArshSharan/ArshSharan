@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> There are 10 types of people in this world...
-> Those who understand binary and those who don't
+> What do you call a pile of cats?
+> A Meowtain.
 <!-- JOKE-END -->
 
 </div>
