@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a pile of cats?
-> A Meowtain.
+> A grocery store cashier asked if I would like my milk in a bag.
+> I told her 'No, thanks. The carton works fine.'
 <!-- JOKE-END -->
 
 </div>
