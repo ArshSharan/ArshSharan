@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a droid that takes the long way around?
-> R2 detour.
+> Can I watch the TV?
+> Yes, but don’t turn it on.
 <!-- JOKE-END -->
 
 </div>
