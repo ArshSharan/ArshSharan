@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Can I watch the TV?
-> Yes, but don’t turn it on.
+> Can February march?
+> No, but April may.
 <!-- JOKE-END -->
 
 </div>
