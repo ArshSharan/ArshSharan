@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Can February march?
-> No, but April may.
+> Where do hamburgers go to dance?
+> The meat-ball.
 <!-- JOKE-END -->
 
 </div>
