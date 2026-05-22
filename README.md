@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Where do hamburgers go to dance?
-> The meat-ball.
+> What's red and bad for your teeth?
+> A Brick.
 <!-- JOKE-END -->
 
 </div>
