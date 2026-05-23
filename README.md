@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What's red and bad for your teeth?
-> A Brick.
+> Never take advice from electrons.
+> They are always negative.
 <!-- JOKE-END -->
 
 </div>
