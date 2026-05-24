@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Never take advice from electrons.
-> They are always negative.
+> What kind of dog lives in a particle accelerator?
+> A Fermilabrador Retriever.
 <!-- JOKE-END -->
 
 </div>
