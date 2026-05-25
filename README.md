@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What kind of dog lives in a particle accelerator?
-> A Fermilabrador Retriever.
+> What does an angry pepper do?
+> It gets jalapeño face.
 <!-- JOKE-END -->
 
 </div>
