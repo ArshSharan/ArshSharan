@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Where do bees go to the bathroom?
-> The BP station.
+> A grocery store cashier asked if I would like my milk in a bag.
+> I told her 'No, thanks. The carton works fine.'
 <!-- JOKE-END -->
 
 </div>
