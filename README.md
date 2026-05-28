@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> A grocery store cashier asked if I would like my milk in a bag.
-> I told her 'No, thanks. The carton works fine.'
+> When do doctors get angry?
+> When they run out of patients.
 <!-- JOKE-END -->
 
 </div>
