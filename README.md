@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> When do doctors get angry?
-> When they run out of patients.
+> Why don't oysters give to charity?
+> Because they're shellfish.
 <!-- JOKE-END -->
 
 </div>
