@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How did the hipster burn the roof of his mouth?
-> He ate the pizza before it was cool.
+> How do hens stay fit?
+> They always egg-cercise!
 <!-- JOKE-END -->
 
 </div>
