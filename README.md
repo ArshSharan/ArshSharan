@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How do hens stay fit?
-> They always egg-cercise!
+> What do you call a factory that sells passable products?
+> A satisfactory
 <!-- JOKE-END -->
 
 </div>
