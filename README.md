@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a factory that sells passable products?
-> A satisfactory
+> Why did the melons plan a big wedding?
+> Because they cantaloupe!
 <!-- JOKE-END -->
 
 </div>
