@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the melons plan a big wedding?
-> Because they cantaloupe!
+> What did the 0 say to the 8?
+> Nice belt.
 <!-- JOKE-END -->
 
 </div>
