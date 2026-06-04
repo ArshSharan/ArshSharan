@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the 0 say to the 8?
-> Nice belt.
+> What did the digital clock say to the grandfather clock?
+> Look, no hands!
 <!-- JOKE-END -->
 
 </div>
