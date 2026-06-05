@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the digital clock say to the grandfather clock?
-> Look, no hands!
+> Why do bears have hairy coats?
+> Fur protection.
 <!-- JOKE-END -->
 
 </div>
