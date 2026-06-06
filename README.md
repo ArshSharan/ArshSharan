@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do bears have hairy coats?
-> Fur protection.
+> Why are football stadiums so cool?
+> Because every seat has a fan in it.
 <!-- JOKE-END -->
 
 </div>
