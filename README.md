@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why are football stadiums so cool?
-> Because every seat has a fan in it.
+> Why did the private classes break up?
+> Because they never saw each other.
 <!-- JOKE-END -->
 
 </div>
