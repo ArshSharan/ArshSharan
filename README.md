@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the private classes break up?
-> Because they never saw each other.
+> Why did the cookie cry?
+> Because his mother was a wafer so long
 <!-- JOKE-END -->
 
 </div>
