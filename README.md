@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the cookie cry?
-> Because his mother was a wafer so long
+> Why do bears have hairy coats?
+> Fur protection.
 <!-- JOKE-END -->
 
 </div>
