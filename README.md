@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do bears have hairy coats?
-> Fur protection.
+> I bought some shoes from a drug dealer.
+> I don't know what he laced them with, but I was tripping all day!
 <!-- JOKE-END -->
 
 </div>
