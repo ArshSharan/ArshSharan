@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> I bought some shoes from a drug dealer.
-> I don't know what he laced them with, but I was tripping all day!
+> What time did the man go to the dentist?
+> Tooth hurt-y.
 <!-- JOKE-END -->
 
 </div>
