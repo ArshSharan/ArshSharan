@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What time did the man go to the dentist?
-> Tooth hurt-y.
+> What did the traffic light say to the car as it passed?
+> Don't look I'm changing!
 <!-- JOKE-END -->
 
 </div>
