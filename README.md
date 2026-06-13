@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the traffic light say to the car as it passed?
-> Don't look I'm changing!
+> Why do Java programmers wear glasses?
+> Because they don't C#.
 <!-- JOKE-END -->
 
 </div>
