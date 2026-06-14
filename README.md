@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do Java programmers wear glasses?
-> Because they don't C#.
+> Why are pirates called pirates?
+> Because they arrr!
 <!-- JOKE-END -->
 
 </div>
