@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why are pirates called pirates?
-> Because they arrr!
+> Did you watch the new comic book movie?
+> It was very graphic!
 <!-- JOKE-END -->
 
 </div>
