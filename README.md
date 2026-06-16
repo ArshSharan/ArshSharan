@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you watch the new comic book movie?
-> It was very graphic!
+> What does C.S. Lewis keep at the back of his wardrobe?
+> Narnia business!
 <!-- JOKE-END -->
 
 </div>
