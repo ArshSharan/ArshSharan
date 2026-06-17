@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What does C.S. Lewis keep at the back of his wardrobe?
-> Narnia business!
+> What did one ocean say to the other ocean?
+> Nothing, they just waved.
 <!-- JOKE-END -->
 
 </div>
