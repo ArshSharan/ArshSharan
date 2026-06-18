@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did one ocean say to the other ocean?
-> Nothing, they just waved.
+> What does the mermaid wear to math class?
+> Algae-bra.
 <!-- JOKE-END -->
 
 </div>
