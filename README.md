@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What does the mermaid wear to math class?
-> Algae-bra.
+> Hey, wanna hear a joke?
+> Parsing HTML with regex.
 <!-- JOKE-END -->
 
 </div>
