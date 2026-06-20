@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Hey, wanna hear a joke?
-> Parsing HTML with regex.
+> What’s E.T. short for?
+> He’s only got little legs.
 <!-- JOKE-END -->
 
 </div>
