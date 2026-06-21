@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What’s E.T. short for?
-> He’s only got little legs.
+> What do you call a boomerang that won't come back?
+> A stick.
 <!-- JOKE-END -->
 
 </div>
