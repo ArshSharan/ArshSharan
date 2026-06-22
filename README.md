@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a boomerang that won't come back?
-> A stick.
+> Why did the belt go to prison?
+> He held up a pair of pants!
 <!-- JOKE-END -->
 
 </div>
