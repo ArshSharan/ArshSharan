@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the belt go to prison?
-> He held up a pair of pants!
+> What did the Java code say to the C code?
+> You've got no class.
 <!-- JOKE-END -->
 
 </div>
