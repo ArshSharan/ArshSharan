@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the Java code say to the C code?
-> You've got no class.
+> What kind of music do welders like?
+> Heavy metal.
 <!-- JOKE-END -->
 
 </div>
