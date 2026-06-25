@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What kind of music do welders like?
-> Heavy metal.
+> When is a door not a door?
+> When it's ajar.
 <!-- JOKE-END -->
 
 </div>
