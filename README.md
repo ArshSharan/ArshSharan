@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> When is a door not a door?
-> When it's ajar.
+> When do doctors get angry?
+> When they run out of patients.
 <!-- JOKE-END -->
 
 </div>
