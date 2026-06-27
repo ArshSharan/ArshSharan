@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> When do doctors get angry?
-> When they run out of patients.
+> Did you know crocodiles could grow up to 15 feet?
+> But most just have 4.
 <!-- JOKE-END -->
 
 </div>
