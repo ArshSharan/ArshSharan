@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you know crocodiles could grow up to 15 feet?
-> But most just have 4.
+> Why did the girl smear peanut butter on the road?
+> To go with the traffic jam.
 <!-- JOKE-END -->
 
 </div>
