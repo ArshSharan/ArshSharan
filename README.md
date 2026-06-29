@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the girl smear peanut butter on the road?
-> To go with the traffic jam.
+> What do you call a bee that can't make up its mind?
+> A maybe.
 <!-- JOKE-END -->
 
 </div>
