@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a bee that can't make up its mind?
-> A maybe.
+> What do you call cheese by itself?
+> Provolone.
 <!-- JOKE-END -->
 
 </div>
