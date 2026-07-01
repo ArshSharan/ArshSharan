@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call cheese by itself?
-> Provolone.
+> Why can't you use "Beef stew"as a password?
+> Because it's not stroganoff.
 <!-- JOKE-END -->
 
 </div>
