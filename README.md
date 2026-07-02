@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why can't you use "Beef stew"as a password?
-> Because it's not stroganoff.
+> What's the best time to go to the dentist?
+> Tooth hurty.
 <!-- JOKE-END -->
 
 </div>
