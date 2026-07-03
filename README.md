@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What's the best time to go to the dentist?
-> Tooth hurty.
+> Dad, can you put my shoes on?
+> I don't think they'll fit me.
 <!-- JOKE-END -->
 
 </div>
