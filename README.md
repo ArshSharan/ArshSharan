@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Dad, can you put my shoes on?
-> I don't think they'll fit me.
+> What do elves post on Social Media?
+> Elf-ies.
 <!-- JOKE-END -->
 
 </div>
