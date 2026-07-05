@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do elves post on Social Media?
-> Elf-ies.
+> Who did the wizard marry?
+> His ghoul-friend
 <!-- JOKE-END -->
 
 </div>
