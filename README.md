@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Who did the wizard marry?
-> His ghoul-friend
+> Why don't oysters give to charity?
+> Because they're shellfish.
 <!-- JOKE-END -->
 
 </div>
