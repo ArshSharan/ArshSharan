@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why don't oysters give to charity?
-> Because they're shellfish.
+> Why do ducks make great detectives?
+> They always quack the case.
 <!-- JOKE-END -->
 
 </div>
