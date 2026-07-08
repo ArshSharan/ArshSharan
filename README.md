@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do ducks make great detectives?
-> They always quack the case.
+> Why did the burglar hang his mugshot on the wall?
+> To prove that he was framed!
 <!-- JOKE-END -->
 
 </div>
