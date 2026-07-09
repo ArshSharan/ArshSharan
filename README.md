@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the burglar hang his mugshot on the wall?
-> To prove that he was framed!
+> What’s E.T. short for?
+> He’s only got little legs.
 <!-- JOKE-END -->
 
 </div>
