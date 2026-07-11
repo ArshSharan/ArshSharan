@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why can't your nose be 12 inches long?
-> Because then it'd be a foot!
+> When is a door not a door?
+> When it's ajar.
 <!-- JOKE-END -->
 
 </div>
