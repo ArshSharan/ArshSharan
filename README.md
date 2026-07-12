@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> When is a door not a door?
-> When it's ajar.
+> Why did the man run around his bed?
+> Because he was trying to catch up on his sleep!
 <!-- JOKE-END -->
 
 </div>
