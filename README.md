@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the man run around his bed?
-> Because he was trying to catch up on his sleep!
+> Why was the JavaScript developer sad?
+> He didn't know how to null his feelings.
 <!-- JOKE-END -->
 
 </div>
