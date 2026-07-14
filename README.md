@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why was the JavaScript developer sad?
-> He didn't know how to null his feelings.
+> When is a door not a door?
+> When it's ajar.
 <!-- JOKE-END -->
 
 </div>
