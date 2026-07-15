@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> When is a door not a door?
-> When it's ajar.
+> What do you call a fat psychic?
+> A four-chin teller.
 <!-- JOKE-END -->
 
 </div>
