@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why can't your nose be 12 inches long?
-> Because then it'd be a foot!
+> Where do sheep go to get their hair cut?
+> The baa-baa shop.
 <!-- JOKE-END -->
 
 </div>
