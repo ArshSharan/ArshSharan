@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Where do sheep go to get their hair cut?
-> The baa-baa shop.
+> What do you call a dad that has fallen through the ice?
+> A Popsicle.
 <!-- JOKE-END -->
 
 </div>
