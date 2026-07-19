@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a dad that has fallen through the ice?
-> A Popsicle.
+> What's the object-oriented way to become wealthy?
+> Inheritance
 <!-- JOKE-END -->
 
 </div>
