@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What's the object-oriented way to become wealthy?
-> Inheritance
+> Why did the math book look sad?
+> Because it had too many problems.
 <!-- JOKE-END -->
 
 </div>
