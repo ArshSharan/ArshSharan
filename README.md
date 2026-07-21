@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the math book look sad?
-> Because it had too many problems.
+> What was a more important invention than the first telephone?
+> The second one.
 <!-- JOKE-END -->
 
 </div>
