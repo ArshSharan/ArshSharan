@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What was a more important invention than the first telephone?
-> The second one.
+> What do you call someone with no nose?
+> Nobody knows.
 <!-- JOKE-END -->
 
 </div>
