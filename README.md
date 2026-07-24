@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call someone with no nose?
-> Nobody knows.
+> How are false teeth like stars?
+> They come out at night!
 <!-- JOKE-END -->
 
 </div>
