@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How are false teeth like stars?
-> They come out at night!
+> Why didn't the skeleton go for prom?
+> Because it had nobody.
 <!-- JOKE-END -->
 
 </div>
