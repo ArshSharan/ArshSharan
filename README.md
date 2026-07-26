@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why didn't the skeleton go for prom?
-> Because it had nobody.
+> Why did the worker get fired from the orange juice factory?
+> Lack of concentration.
 <!-- JOKE-END -->
 
 </div>
