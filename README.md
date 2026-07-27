@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the worker get fired from the orange juice factory?
-> Lack of concentration.
+> Did you hear about the chameleon who couldn't change color?
+> They had a reptile dysfunction.
 <!-- JOKE-END -->
 
 </div>
