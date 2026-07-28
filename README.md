@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you hear about the chameleon who couldn't change color?
-> They had a reptile dysfunction.
+> If you boil a clown...
+> Do you get a laughing stock?
 <!-- JOKE-END -->
 
 </div>
