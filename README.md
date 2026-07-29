@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> If you boil a clown...
-> Do you get a laughing stock?
+> Why do Java programmers wear glasses?
+> Because they don't C#.
 <!-- JOKE-END -->
 
 </div>
