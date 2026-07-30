@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do Java programmers wear glasses?
-> Because they don't C#.
+> Did you hear about the cow who jumped over the barbed wire fence?
+> It was udder destruction.
 <!-- JOKE-END -->
 
 </div>
