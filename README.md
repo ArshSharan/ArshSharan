@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the scarecrow win an award?
-> Because he was outstanding in his field.
+> What do vegetarian zombies eat?
+> Grrrrrainnnnnssss.
 <!-- JOKE-END -->
 
 </div>
