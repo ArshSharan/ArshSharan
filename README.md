@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do vegetarian zombies eat?
-> Grrrrrainnnnnssss.
+> Why did the programmer's wife leave him?
+> He didn't know how to commit.
 <!-- JOKE-END -->
 
 </div>
