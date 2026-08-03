@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the programmer's wife leave him?
-> He didn't know how to commit.
+> A DHCP packet walks into a bar and asks for a beer.
+> Bartender says, "here, but I’ll need that back in an hour!"
 <!-- JOKE-END -->
 
 </div>
