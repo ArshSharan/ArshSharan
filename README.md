@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> A DHCP packet walks into a bar and asks for a beer.
-> Bartender says, "here, but I’ll need that back in an hour!"
+> Why did the kid throw the watch out the window?
+> So time would fly.
 <!-- JOKE-END -->
 
 </div>
