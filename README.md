@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the kid throw the watch out the window?
-> So time would fly.
+> How many React developers does it take to change a lightbulb?
+> None, they prefer dark mode.
 <!-- JOKE-END -->
 
 </div>
