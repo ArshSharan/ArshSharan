@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How many React developers does it take to change a lightbulb?
-> None, they prefer dark mode.
+> Why did the burglar hang his mugshot on the wall?
+> To prove that he was framed!
 <!-- JOKE-END -->
 
 </div>
