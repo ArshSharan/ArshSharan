@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the burglar hang his mugshot on the wall?
-> To prove that he was framed!
+> Did you hear about the new restaurant on the moon?
+> The food is great, but there’s just no atmosphere.
 <!-- JOKE-END -->
 
 </div>
