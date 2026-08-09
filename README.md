@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the mountain climber name his son?
-> Cliff.
+> What do you call a pig with three eyes?
+> Piiig
 <!-- JOKE-END -->
 
 </div>
