@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a pig with three eyes?
-> Piiig
+> Did you know that protons have mass?
+> I didn't even know they were catholic.
 <!-- JOKE-END -->
 
 </div>
