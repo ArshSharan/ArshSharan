@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you know that protons have mass?
-> I didn't even know they were catholic.
+> Want to hear a joke about construction?
+> Nah, I'm still working on it.
 <!-- JOKE-END -->
 
 </div>
