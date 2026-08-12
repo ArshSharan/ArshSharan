@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Want to hear a joke about construction?
-> Nah, I'm still working on it.
+> Why did the Clydesdale give the pony a glass of water?
+> Because he was a little horse
 <!-- JOKE-END -->
 
 </div>
