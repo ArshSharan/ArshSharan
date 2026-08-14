@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the judge say to the dentist?
-> Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+> There are 10 types of people in this world...
+> Those who understand binary and those who don't
 <!-- JOKE-END -->
 
 </div>
