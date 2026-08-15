@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> There are 10 types of people in this world...
-> Those who understand binary and those who don't
+> Did you know crocodiles could grow up to 15 feet?
+> But most just have 4.
 <!-- JOKE-END -->
 
 </div>
