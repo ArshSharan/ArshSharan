@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you know crocodiles could grow up to 15 feet?
-> But most just have 4.
+> What animal is always at a game of cricket?
+> A bat.
 <!-- JOKE-END -->
 
 </div>
