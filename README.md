@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What animal is always at a game of cricket?
-> A bat.
+> What did the 0 say to the 8?
+> Nice belt.
 <!-- JOKE-END -->
 
 </div>
