@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the 0 say to the 8?
-> Nice belt.
+> Why didn't the skeleton go for prom?
+> Because it had nobody.
 <!-- JOKE-END -->
 
 </div>
