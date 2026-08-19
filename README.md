@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why didn't the skeleton go for prom?
-> Because it had nobody.
+> How do you get a baby alien to sleep?
+> You rocket.
 <!-- JOKE-END -->
 
 </div>
