@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How do you get a baby alien to sleep?
-> You rocket.
+> How many apples grow on a tree?
+> All of them!
 <!-- JOKE-END -->
 
 </div>
