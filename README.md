@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How many apples grow on a tree?
-> All of them!
+> If you boil a clown...
+> Do you get a laughing stock?
 <!-- JOKE-END -->
 
 </div>
