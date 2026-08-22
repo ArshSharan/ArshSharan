@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> If you boil a clown...
-> Do you get a laughing stock?
+> What happens when you anger a brain surgeon?
+> They will give you a piece of your mind.
 <!-- JOKE-END -->
 
 </div>
