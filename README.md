@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What happens when you anger a brain surgeon?
-> They will give you a piece of your mind.
+> Why does Norway have barcodes on their battleships?
+> So when they get back to port, they can Scandinavian.
 <!-- JOKE-END -->
 
 </div>
