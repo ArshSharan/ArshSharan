@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why does Norway have barcodes on their battleships?
-> So when they get back to port, they can Scandinavian.
+> How do you comfort a designer?
+> You give them some space... between the elements.
 <!-- JOKE-END -->
 
 </div>
