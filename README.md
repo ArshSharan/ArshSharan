@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How do you comfort a designer?
-> You give them some space... between the elements.
+> Hey, wanna hear a joke?
+> Parsing HTML with regex.
 <!-- JOKE-END -->
 
 </div>
