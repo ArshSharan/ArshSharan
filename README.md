@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a singing Laptop?
-> A Dell
+> What did the spaghetti say to the other spaghetti?
+> Pasta la vista, baby!
 <!-- JOKE-END -->
 
 </div>
