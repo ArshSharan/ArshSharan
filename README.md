@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the spaghetti say to the other spaghetti?
-> Pasta la vista, baby!
+> Why don't you find hippopotamuses hiding in trees?
+> They're really good at it.
 <!-- JOKE-END -->
 
 </div>
