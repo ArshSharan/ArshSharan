@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a singing Laptop?
-> A Dell
+> Why did the math book look sad?
+> Because it had too many problems.
 <!-- JOKE-END -->
 
 </div>
