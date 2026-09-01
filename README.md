@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the math book look sad?
-> Because it had too many problems.
+> What did the dog say to the two trees?
+> Bark bark.
 <!-- JOKE-END -->
 
 </div>
