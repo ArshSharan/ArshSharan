@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the dog say to the two trees?
-> Bark bark.
+> 99.9% of the people are dumb!
+> Fortunately I belong to the remaining 1%
 <!-- JOKE-END -->
 
 </div>
