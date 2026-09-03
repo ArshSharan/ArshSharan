@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> 99.9% of the people are dumb!
-> Fortunately I belong to the remaining 1%
+> What is the difference between ignorance and apathy?
+> I don't know and I don't care.
 <!-- JOKE-END -->
 
 </div>
