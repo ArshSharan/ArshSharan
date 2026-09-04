@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What is the difference between ignorance and apathy?
-> I don't know and I don't care.
+> Why don't eggs tell jokes?
+> Because they would crack each other up.
 <!-- JOKE-END -->
 
 </div>
