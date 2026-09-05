@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why don't eggs tell jokes?
-> Because they would crack each other up.
+> Why do programmers prefer dark chocolate?
+> Because it's bitter like their code.
 <!-- JOKE-END -->
 
 </div>
