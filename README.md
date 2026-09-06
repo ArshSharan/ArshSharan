@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do programmers prefer dark chocolate?
-> Because it's bitter like their code.
+> What do you call a cow with no legs?
+> Ground beef!
 <!-- JOKE-END -->
 
 </div>
