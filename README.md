@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a cow with no legs?
-> Ground beef!
+> Why are skeletons so calm?
+> Because nothing gets under their skin.
 <!-- JOKE-END -->
 
 </div>
