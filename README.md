@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why are skeletons so calm?
-> Because nothing gets under their skin.
+> Why did the kid throw the watch out the window?
+> So time would fly.
 <!-- JOKE-END -->
 
 </div>
