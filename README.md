@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the kid throw the watch out the window?
-> So time would fly.
+> What do you call a thieving alligator?
+> A crookodile!
 <!-- JOKE-END -->
 
 </div>
