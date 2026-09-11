@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a thieving alligator?
-> A crookodile!
+> What did the Zen Buddist say to the hotdog vendor?
+> Make me one with everything.
 <!-- JOKE-END -->
 
 </div>
