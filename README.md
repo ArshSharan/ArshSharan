@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the Zen Buddist say to the hotdog vendor?
-> Make me one with everything.
+> Why did the programmer always mix up Halloween and Christmas?
+> Because Oct 31 equals Dec 25.
 <!-- JOKE-END -->
 
 </div>
