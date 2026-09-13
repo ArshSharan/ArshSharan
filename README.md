@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the programmer always mix up Halloween and Christmas?
-> Because Oct 31 equals Dec 25.
+> What did the judge say to the dentist?
+> Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 <!-- JOKE-END -->
 
 </div>
