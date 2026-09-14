@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the judge say to the dentist?
-> Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+> Why are football stadiums so cool?
+> Because every seat has a fan in it.
 <!-- JOKE-END -->
 
 </div>
