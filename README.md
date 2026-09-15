@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why are football stadiums so cool?
-> Because every seat has a fan in it.
+> I dropped a pear in my car this morning.
+> You should drop another one, then you would have a pair.
 <!-- JOKE-END -->
 
 </div>
