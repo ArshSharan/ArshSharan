@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> I dropped a pear in my car this morning.
-> You should drop another one, then you would have a pair.
+> Why do valley girls hang out in odd numbered groups?
+> Because they can't even.
 <!-- JOKE-END -->
 
 </div>
