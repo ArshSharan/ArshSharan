@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why do valley girls hang out in odd numbered groups?
-> Because they can't even.
+> A user interface is like a joke.
+> If you have to explain it then it is not that good.
 <!-- JOKE-END -->
 
 </div>
