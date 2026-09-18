@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> A user interface is like a joke.
-> If you have to explain it then it is not that good.
+> What is the least spoken language in the world?
+> Sign Language
 <!-- JOKE-END -->
 
 </div>
