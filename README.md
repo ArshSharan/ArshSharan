@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you hear about the new restaurant on the moon?
-> The food is great, but there’s just no atmosphere.
+> How many apples grow on a tree?
+> All of them!
 <!-- JOKE-END -->
 
 </div>
