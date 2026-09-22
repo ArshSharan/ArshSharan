@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How do you find Will Smith in the snow?
-> Look for fresh prints.
+> Did you hear about the guy whose whole left side was cut off?
+> He's all right now.
 <!-- JOKE-END -->
 
 </div>
