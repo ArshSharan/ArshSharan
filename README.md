@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do elves post on Social Media?
-> Elf-ies.
+> How do you steal a coat?
+> You jacket.
 <!-- JOKE-END -->
 
 </div>
