@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How do you steal a coat?
-> You jacket.
+> Hey, wanna hear a joke?
+> Parsing HTML with regex.
 <!-- JOKE-END -->
 
 </div>
