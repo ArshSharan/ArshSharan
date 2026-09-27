@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Hey, wanna hear a joke?
-> Parsing HTML with regex.
+> What do you call a boomerang that won't come back?
+> A stick.
 <!-- JOKE-END -->
 
 </div>
