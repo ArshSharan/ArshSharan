@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a boomerang that won't come back?
-> A stick.
+> Why does Superman get invited to dinners?
+> Because he is a Supperhero.
 <!-- JOKE-END -->
 
 </div>
