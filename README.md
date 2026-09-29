@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why does Superman get invited to dinners?
-> Because he is a Supperhero.
+> What's the best thing about Switzerland?
+> I don't know, but their flag is a big plus.
 <!-- JOKE-END -->
 
 </div>
