@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What's the best thing about Switzerland?
-> I don't know, but their flag is a big plus.
+> Why did the girl smear peanut butter on the road?
+> To go with the traffic jam.
 <!-- JOKE-END -->
 
 </div>
