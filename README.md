@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the girl smear peanut butter on the road?
-> To go with the traffic jam.
+> Why are “Dad Jokes” so good?
+> Because the punchline is apparent.
 <!-- JOKE-END -->
 
 </div>
