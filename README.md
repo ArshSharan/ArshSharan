@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why are “Dad Jokes” so good?
-> Because the punchline is apparent.
+> An IPv6 packet is walking out of the house.
+> He goes nowhere.
 <!-- JOKE-END -->
 
 </div>
