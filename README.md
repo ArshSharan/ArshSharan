@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> An IPv6 packet is walking out of the house.
-> He goes nowhere.
+> What type of music do balloons hate?
+> Pop music!
 <!-- JOKE-END -->
 
 </div>
