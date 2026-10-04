@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What type of music do balloons hate?
-> Pop music!
+> Did you know you should always take an extra pair of pants golfing?
+> Just in case you get a hole in one.
 <!-- JOKE-END -->
 
 </div>
