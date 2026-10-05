@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Did you know you should always take an extra pair of pants golfing?
-> Just in case you get a hole in one.
+> What did the spaghetti say to the other spaghetti?
+> Pasta la vista, baby!
 <!-- JOKE-END -->
 
 </div>
