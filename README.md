@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did the spaghetti say to the other spaghetti?
-> Pasta la vista, baby!
+> What did Romans use to cut pizza before the rolling cutter was invented?
+> Lil Caesars
 <!-- JOKE-END -->
 
 </div>
