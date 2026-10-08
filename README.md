@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What did Romans use to cut pizza before the rolling cutter was invented?
-> Lil Caesars
+> Why are mummys scared of vacation?
+> They're afraid to unwind.
 <!-- JOKE-END -->
 
 </div>
