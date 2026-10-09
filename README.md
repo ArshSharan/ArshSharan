@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why are mummys scared of vacation?
-> They're afraid to unwind.
+> What do you call a group of disorganized cats?
+> A cat-tastrophe.
 <!-- JOKE-END -->
 
 </div>
