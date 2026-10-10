@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a group of disorganized cats?
-> A cat-tastrophe.
+> How do you check if a webpage is HTML5?
+> Try it out on Internet Explorer
 <!-- JOKE-END -->
 
 </div>
