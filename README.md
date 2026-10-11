@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How do you check if a webpage is HTML5?
-> Try it out on Internet Explorer
+> I just watched a documentary about beavers.
+> It was the best dam show I ever saw
 <!-- JOKE-END -->
 
 </div>
