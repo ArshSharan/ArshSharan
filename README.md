@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> I just watched a documentary about beavers.
-> It was the best dam show I ever saw
+> Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?
+> Because there’s a Shortstop in between!
 <!-- JOKE-END -->
 
 </div>
