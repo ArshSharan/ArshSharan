@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?
-> Because there’s a Shortstop in between!
+> Can I watch the TV?
+> Yes, but don’t turn it on.
 <!-- JOKE-END -->
 
 </div>
