@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Can I watch the TV?
-> Yes, but don’t turn it on.
+> What do you call a suspicious looking laptop?
+> Asus
 <!-- JOKE-END -->
 
 </div>
