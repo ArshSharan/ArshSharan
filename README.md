@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a suspicious looking laptop?
-> Asus
+> What does a pirate pay for his corn?
+> A buccaneer!
 <!-- JOKE-END -->
 
 </div>
