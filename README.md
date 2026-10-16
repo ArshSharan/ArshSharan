@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What does a pirate pay for his corn?
-> A buccaneer!
+> Why did the programmer go broke?
+> He used up all his cache
 <!-- JOKE-END -->
 
 </div>
