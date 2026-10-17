@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the programmer go broke?
-> He used up all his cache
+> What do you call a belt made out of watches?
+> A waist of time.
 <!-- JOKE-END -->
 
 </div>
