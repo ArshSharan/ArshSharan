@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What do you call a belt made out of watches?
-> A waist of time.
+> If you see a robbery at an Apple Store...
+> Does that make you an iWitness?
 <!-- JOKE-END -->
 
 </div>
