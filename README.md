@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> If you see a robbery at an Apple Store...
-> Does that make you an iWitness?
+> Where did the API go to eat?
+> To the RESTaurant.
 <!-- JOKE-END -->
 
 </div>
