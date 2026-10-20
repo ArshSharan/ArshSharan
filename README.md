@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Where did the API go to eat?
-> To the RESTaurant.
+> Why do bees hum?
+> Because they don't know the words.
 <!-- JOKE-END -->
 
 </div>
