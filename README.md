@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why does a Moon-rock taste better than an Earth-rock?
-> Because it's a little meteor.
+> Why did the golfer wear two pairs of pants?
+> In case he got a hole in one.
 <!-- JOKE-END -->
 
 </div>
