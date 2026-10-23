@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the golfer wear two pairs of pants?
-> In case he got a hole in one.
+> Why did the worker get fired from the orange juice factory?
+> Lack of concentration.
 <!-- JOKE-END -->
 
 </div>
