@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Hey, dad, did you get a haircut?
-> No, I got them all cut.
+> What's the best thing about Switzerland?
+> I don't know, but their flag is a big plus.
 <!-- JOKE-END -->
 
 </div>
