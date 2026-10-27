@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What's the best thing about Switzerland?
-> I don't know, but their flag is a big plus.
+> What kind of dog lives in a particle accelerator?
+> A Fermilabrador Retriever.
 <!-- JOKE-END -->
 
 </div>
