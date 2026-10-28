@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What kind of dog lives in a particle accelerator?
-> A Fermilabrador Retriever.
+> What do you call a fashionable lawn statue with an excellent sense of rhythmn?
+> A metro-gnome
 <!-- JOKE-END -->
 
 </div>
