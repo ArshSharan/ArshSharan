@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> When is a door not a door?
-> When it's ajar.
+> Why didn’t the orange win the race?
+> It ran out of juice.
 <!-- JOKE-END -->
 
 </div>
