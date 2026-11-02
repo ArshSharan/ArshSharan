@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> How do you find Will Smith in the snow?
-> Look for fresh prints.
+> Why did the scarecrow win an award?
+> Because he was outstanding in his field.
 <!-- JOKE-END -->
 
 </div>
