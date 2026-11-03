@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the scarecrow win an award?
-> Because he was outstanding in his field.
+> What is the leading cause of dry skin?
+> Towels
 <!-- JOKE-END -->
 
 </div>
