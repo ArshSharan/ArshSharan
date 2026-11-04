@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> What is the leading cause of dry skin?
-> Towels
+> Why did the math book look sad?
+> Because it had too many problems.
 <!-- JOKE-END -->
 
 </div>
