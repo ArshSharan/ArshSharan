@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Why did the math book look sad?
-> Because it had too many problems.
+> Is the pool safe for diving?
+> It deep ends.
 <!-- JOKE-END -->
 
 </div>
