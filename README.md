@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Is the pool safe for diving?
-> It deep ends.
+> Hey, wanna hear a joke?
+> Parsing HTML with regex.
 <!-- JOKE-END -->
 
 </div>
