@@ -86,8 +86,8 @@
 <div>
   
 <!-- JOKE-START -->
-> Hey, wanna hear a joke?
-> Parsing HTML with regex.
+> What do you call sad coffee?
+> Despresso.
 <!-- JOKE-END -->
 
 </div>
